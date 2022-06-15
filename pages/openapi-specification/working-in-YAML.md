@@ -84,7 +84,7 @@ YAML - это попытка создать более удобный для в�
 
     {
     "children": ["Avery","Callie","Lucy","Molly"],
-    "hobbies":["swimming","biking","drawing","horseplaying]
+    "hobbies":["swimming","biking","drawing","horseplaying"]
     }
 
 Тот же объект с массивом в YAML:
